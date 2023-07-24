@@ -1,0 +1,1903 @@
+venuename,distance,Bends
+Adelaide River,1000,2
+Adelaide River,1200,2
+Adelaide River,1600,2
+Albany,1000,2
+Albany,1050,2
+Albany,1091,2
+Albany,1100,2
+Albany,1230,2
+Albany,1234,2
+Albany,1240,2
+Albany,1450,3
+Albany,1500,3
+Albany,1512,3
+Albany,1600,3
+Albany,1612,3
+Albany,1900,4
+Albany,1907,4
+Albany,1920,4
+Albany,1925,4
+Albany,1927,4
+Albany,1930,4
+Albany,1932,4
+Albany,1940,4
+Albany,2070,4
+Albany,2100,4
+Albury,900,1
+Albury,1000,1
+Albury,1175,1
+Albury,1400,2
+Albury,1500,2
+Albury,1600,2
+Albury,2000,3
+Albury,2400,3
+Alexandra,1300,2
+Alexandra,1540,2
+Alexandra,1830,2
+Alice Springs,1000,2
+Alice Springs,1100,2
+Alice Springs,1200,2
+Alice Springs,1400,3
+Alice Springs,1600,3
+Alice Springs,1900,3
+Alice Springs,2000,3
+Ararat,1100,2
+Ararat,1200,2
+Ararat,1300,2
+Ararat,1310,2
+Ararat,1600,3
+Ararat,2000,3
+Armidale,1100,2
+Armidale,1300,2
+Armidale,1400,2
+Armidale,1900,3
+Ascot,1000,1
+Ascot,1100,1
+Ascot,1200,1
+Ascot,1400,2
+Ascot,1500,2
+Ascot,1600,2
+Ascot,1800,2
+Ascot,1820,2
+Ascot,2100,3
+Ascot,2150,3
+Ascot,2200,3
+Ascot,2400,3
+Ascot,3200,4
+Avoca,1100,2
+Avoca,1200,2
+Avoca,1300,2
+Avoca,1860,2
+Bairnsdale,1000,1
+Bairnsdale,1200,1
+Bairnsdale,1600,2
+Bairnsdale,2000,3
+Bairnsdale,2200,3
+Balaklava,1000,1
+Balaklava,1050,1
+Balaklava,1056,1
+Balaklava,1058,1
+Balaklava,1140,1
+Balaklava,1200,1
+Balaklava,1212,1
+Balaklava,1216,1
+Balaklava,1300,1
+Balaklava,1316,1
+Balaklava,1380,1
+Balaklava,1400,1
+Balaklava,1412,1
+Balaklava,1416,1
+Balaklava,1600,1
+Balaklava,1612,1
+Balaklava,1616,1
+Balaklava,2200,2
+Balaklava,2210,2
+Balaklava,2224,2
+Balaklava,2228,2
+Ballarat,1000,1
+Ballarat,1100,1
+Ballarat,1200,1
+Ballarat,1300,1
+Ballarat,1400,1
+Ballarat,1500,1
+Ballarat,1600,2
+Ballarat,2000,2
+Ballarat,2100,2
+Ballarat,2200,2
+Ballarat,2300,2
+Ballarat,3200,2
+Ballarat,3400,2
+Ballarat,4000,2
+Ballarat,4500,2
+Ballina,1000,2
+Ballina,1005,2
+Ballina,1010,2
+Ballina,1250,2
+Ballina,1255,2
+Ballina,1260,2
+Ballina,1300,2
+Ballina,1305,2
+Ballina,1310,2
+Ballina,1400,2
+Ballina,1405,2
+Ballina,1410,2
+Ballina,1600,2
+Ballina,1605,2
+Ballina,1610,2
+Ballina,1900,3
+Ballina,1905,3
+Ballina,1910,3
+Ballina,2650,2
+Balnarring,1050,1
+Balnarring,1200,1
+Balnarring,1600,2
+Balnarring,2000,2
+Bathurst,1100,1
+Bathurst,1106,1
+Bathurst,1108,1
+Bathurst,1200,1
+Bathurst,1208,1
+Bathurst,1300,1
+Bathurst,1308,1
+Bathurst,1335,1
+Bathurst,1400,1
+Bathurst,1406,1
+Bathurst,1408,1
+Bathurst,1800,2
+Bathurst,1806,2
+Bathurst,1808,2
+Bathurst,2000,2
+Bathurst,2008,2
+Bathurst,2700,3
+Beaudesert,1050,1
+Beaudesert,1100,1
+Beaudesert,1200,1
+Beaudesert,1300,1
+Beaudesert,1400,1
+Beaudesert,1650,2
+Beaudesert,2450,3
+Belmont,1000,1
+Belmont,1200,2
+Belmont,1300,2
+Belmont,1400,2
+Belmont,1600,2
+Belmont,1650,2
+Belmont,1700,2
+Belmont,2000,2
+Belmont,2100,2
+Belmont,2200,2
+Benalla,1106,1
+Benalla,1206,1
+Benalla,1406,1
+Benalla,1606,1
+Benalla,2040,2
+Benalla,2046,2
+Bendigo,1000,1
+Bendigo,1100,1
+Bendigo,1300,1
+Bendigo,1400,1
+Bendigo,1500,1
+Bendigo,1600,1
+Bendigo,2200,2
+Bendigo,2400,2
+Bendigo,3200,3
+Bendigo,3600,3
+Birdsville,800,2
+Birdsville,1000,2
+Birdsville,1200,2
+Birdsville,1400,2
+Birdsville,1600,2
+Bordertown,1100,1
+Bordertown,1200,1
+Bordertown,1300,1
+Bordertown,1550,2
+Bordertown,2000,2
+Bowen,1000,2
+Bowen,1200,2
+Bowen,1280,2
+Bowen,1470,2
+Bowraville,1000,2
+Bowraville,1370,2
+Bowraville,2200,2
+Broome,1000,2
+Broome,1100,2
+Broome,1200,2
+Broome,1300,2
+Broome,1435,2
+Broome,1600,2
+Broome,1800,2
+Broome,2020,2
+Broome,2200,2
+Bunbury,1000,1
+Bunbury,1008,1
+Bunbury,1016,1
+Bunbury,1100,1
+Bunbury,1108,1
+Bunbury,1116,1
+Bunbury,1200,1
+Bunbury,1208,1
+Bunbury,1216,1
+Bunbury,1400,2
+Bunbury,1410,2
+Bunbury,1420,2
+Bunbury,1675,2
+Bunbury,1690,2
+Bunbury,1705,2
+Bunbury,2000,2
+Bunbury,2019,2
+Bunbury,2038,2
+Bunbury,2200,2
+Bunbury,2219,2
+Bunbury,2238,2
+Burrumbeet,1000,2
+Burrumbeet,1350,2
+Burrumbeet,1800,2
+Cairns,870,1
+Cairns,950,1
+Cairns,1250,2
+Cairns,1400,2
+Cairns,1500,2
+Cairns,1600,3
+Cairns,1900,3
+Cairns,2100,3
+Camperdown,1000,1
+Camperdown,1400,2
+Camperdown,1600,3
+Camperdown,2200,3
+Canberra,1000,1
+Canberra,1080,1
+Canberra,1200,1
+Canberra,1206,1
+Canberra,1280,1
+Canberra,1300,1
+Canberra,1400,1
+Canberra,1600,1
+Canberra,1750,2
+Canberra,1900,2
+Canberra,2000,2
+Canterbury,1100,1
+Canterbury,1200,1
+Canterbury,1250,1
+Canterbury,1550,2
+Canterbury,1580,2
+Canterbury,1900,2
+Canterbury,2700,3
+Carnarvon,1000,2
+Carnarvon,1200,2
+Carnarvon,1400,2
+Carnarvon,1600,2
+Carnarvon,1700,2
+Carnarvon,2000,2
+Casino,1000,1
+Casino,1200,1
+Casino,1300,1
+Casino,1400,1
+Casino,1900,2
+Casterton,1000,2
+Casterton,1100,2
+Casterton,1200,2
+Casterton,1400,2
+Casterton,1800,2
+Casterton,2000,2
+Casterton,3480,2
+Casterton,3800,2
+Caulfield,1000,1
+Caulfield,1100,1
+Caulfield,1200,1
+Caulfield,1400,2
+Caulfield,1440,2
+Caulfield,1600,2
+Caulfield,1700,2
+Caulfield,1800,2
+Caulfield,2000,2
+Caulfield,2400,3
+Caulfield,2406,3
+Caulfield,2420,3
+Caulfield,2425,3
+Caulfield,2430,3
+Cessnock,900,1
+Cessnock,1150,2
+Cessnock,1350,2
+Cessnock,1570,3
+Cessnock,2125,3
+Clare,1100,2
+Clare,1200,2
+Clare,1800,4
+Coffs Harbour,800,1
+Coffs Harbour,805,1
+Coffs Harbour,810,1
+Coffs Harbour,812,1
+Coffs Harbour,1000,1
+Coffs Harbour,1005,1
+Coffs Harbour,1010,1
+Coffs Harbour,1012,1
+Coffs Harbour,1015,1
+Coffs Harbour,1200,1
+Coffs Harbour,1205,1
+Coffs Harbour,1207,1
+Coffs Harbour,1210,1
+Coffs Harbour,1215,1
+Coffs Harbour,1300,1
+Coffs Harbour,1305,1
+Coffs Harbour,1307,1
+Coffs Harbour,1310,1
+Coffs Harbour,1315,1
+Coffs Harbour,1400,1
+Coffs Harbour,1405,1
+Coffs Harbour,1407,1
+Coffs Harbour,1410,1
+Coffs Harbour,1415,1
+Coffs Harbour,1500,1
+Coffs Harbour,1505,1
+Coffs Harbour,1507,1
+Coffs Harbour,1515,1
+Coffs Harbour,1600,1
+Coffs Harbour,1605,1
+Coffs Harbour,1615,1
+Coffs Harbour,2000,2
+Coffs Harbour,2005,2
+Coffs Harbour,2010,2
+Coffs Harbour,2015,2
+Colac,1000,1
+Colac,1100,1
+Colac,1200,1
+Colac,1600,2
+Colac,2000,2
+Colac,2850,2
+Colac,3350,2
+Coleraine,1050,1
+Coleraine,1100,2
+Coleraine,1300,2
+Coleraine,1400,2
+Coleraine,1600,2
+Coleraine,1800,3
+Coleraine,3300,2
+Coleraine,3600,2
+Coleraine,3800,2
+Collie,1100,2
+Collie,1200,2
+Collie,1400,2
+Collie,2000,2
+Coonabarabran,900,1
+Coonabarabran,1000,1
+Coonabarabran,1100,1
+Coonabarabran,1200,1
+Coonabarabran,1400,2
+Coonabarabran,1600,2
+Coonamble,1100,1
+Coonamble,1200,1
+Coonamble,1300,1
+Coonamble,1400,1
+Coonamble,1600,1
+Coonamble,2000,2
+Cootamundra,1100,1
+Cootamundra,1200,1
+Cootamundra,1400,1
+Cootamundra,1600,2
+Corowa,900,1
+Corowa,1000,1
+Corowa,1200,2
+Corowa,1300,2
+Corowa,1400,2
+Corowa,1600,2
+Cowra,950,1
+Cowra,1100,1
+Cowra,1200,1
+Cowra,1375,2
+Cowra,1700,2
+Cranbourne,1000,1
+Cranbourne,1200,1
+Cranbourne,1300,1
+Cranbourne,1400,1
+Cranbourne,1500,1
+Cranbourne,1600,1
+Cranbourne,2025,2
+Cranbourne,2060,2
+Cranbourne,2080,2
+Cranbourne,2520,3
+Cranbourne,2540,3
+Cranbourne,2580,3
+Cranbourne,2600,3
+Cranbourne,3000,3
+Dalby,800,1
+Dalby,1000,1
+Dalby,1100,1
+Dalby,1200,1
+Dalby,1300,1
+Dalby,1400,1
+Dalby,1788,2
+Dalby,2000,2
+Devonport,900,1
+Devonport,1000,1
+Devonport,1009,1
+Devonport,1150,1
+Devonport,1350,2
+Devonport,1650,2
+Devonport,1880,2
+Devonport,2360,3
+Donald,1000,1
+Donald,1002,1
+Donald,1200,1
+Donald,1204,1
+Donald,1350,1
+Donald,1354,1
+Donald,1620,2
+Donald,1624,2
+Donald,2000,2
+Donald,2008,2
+Dongara,1100,2
+Dongara,1200,2
+Dongara,1850,2
+Doomben,1050,1
+Doomben,1110,1
+Doomben,1200,1
+Doomben,1350,1
+Doomben,1600,2
+Doomben,1615,2
+Doomben,1630,2
+Doomben,1640,2
+Doomben,1650,2
+Doomben,1660,2
+Doomben,2000,2
+Doomben,2020,2
+Doomben,2030,2
+Doomben,2040,2
+Doomben,2050,2
+Doomben,2060,2
+Doomben,2200,2
+Doomben,2220,2
+Doomben,2240,2
+Dubbo,1000,1
+Dubbo,1010,1
+Dubbo,1020,1
+Dubbo,1100,1
+Dubbo,1110,1
+Dubbo,1120,1
+Dubbo,1200,1
+Dubbo,1210,1
+Dubbo,1300,1
+Dubbo,1310,1
+Dubbo,1320,1
+Dubbo,1400,1
+Dubbo,1410,1
+Dubbo,1420,1
+Dubbo,1600,1
+Dubbo,1610,1
+Dubbo,1620,1
+Dubbo,2200,2
+Dubbo,2210,2
+Dunkeld,1000,2
+Dunkeld,1200,2
+Dunkeld,1800,2
+Eagle Farm,1000,1
+Eagle Farm,1200,1
+Eagle Farm,1300,1
+Eagle Farm,1400,1
+Eagle Farm,1500,1
+Eagle Farm,1600,1
+Eagle Farm,1800,2
+Eagle Farm,1815,2
+Eagle Farm,1820,2
+Eagle Farm,1825,2
+Eagle Farm,1835,2
+Eagle Farm,1840,2
+Eagle Farm,2200,2
+Eagle Farm,2206,2
+Eagle Farm,2212,2
+Eagle Farm,2225,2
+Eagle Farm,2400,2
+Eagle Farm,3000,3
+Eagle Farm,3200,3
+Echuca,1000,1
+Echuca,1009,1
+Echuca,1100,1
+Echuca,1109,1
+Echuca,1170,1
+Echuca,1200,1
+Echuca,1209,1
+Echuca,1300,2
+Echuca,1312,2
+Echuca,1400,2
+Echuca,1412,2
+Echuca,1600,3
+Echuca,1618,3
+Echuca,2100,3
+Echuca,2124,3
+Echuca,2800,4
+Echuca,3224,4
+Edenhope,1000,1
+Edenhope,1200,1
+Edenhope,1450,2
+Edenhope,1850,2
+Edenhope,2000,2
+Esperance,1100,2
+Esperance,1200,2
+Esperance,1300,2
+Esperance,1400,2
+Esperance,1600,2
+Esperance,1950,2
+Esperance,2000,2
+Esperance,2012,2
+Esperance,2015,2
+Esperance,2030,2
+Fannie Bay,1000,1
+Fannie Bay,1100,1
+Fannie Bay,1200,1
+Fannie Bay,1300,2
+Fannie Bay,1600,3
+Fannie Bay,1900,4
+Fannie Bay,2000,4
+Flemington,1000,0
+Flemington,1100,0
+Flemington,1200,0
+Flemington,1400,1
+Flemington,1410,1
+Flemington,1420,1
+Flemington,1600,1
+Flemington,1620,1
+Flemington,1630,1
+Flemington,1700,1
+Flemington,1710,1
+Flemington,1720,1
+Flemington,1800,1
+Flemington,2000,1
+Flemington,2500,2
+Flemington,2510,2
+Flemington,2520,2
+Flemington,2530,2
+Flemington,2540,2
+Flemington,2600,2
+Flemington,2800,2
+Flemington,3200,2
+Forbes,1100,1
+Forbes,1200,1
+Forbes,1300,1
+Forbes,1400,1
+Forbes,1600,2
+Gatton,860,1
+Gatton,1100,1
+Gatton,1400,2
+Gatton,1600,2
+Gatton,2000,2
+Gawler,1100,1
+Gawler,1104,1
+Gawler,1106,1
+Gawler,1107,1
+Gawler,1108,1
+Gawler,1115,1
+Gawler,1122,1
+Gawler,1200,1
+Gawler,1204,1
+Gawler,1206,1
+Gawler,1207,1
+Gawler,1208,1
+Gawler,1215,1
+Gawler,1222,1
+Gawler,1224,1
+Gawler,1400,2
+Gawler,1500,2
+Gawler,1504,2
+Gawler,1506,2
+Gawler,1508,2
+Gawler,1512,2
+Gawler,1514,2
+Gawler,1515,2
+Gawler,1516,2
+Gawler,1518,2
+Gawler,1522,2
+Gawler,1524,2
+Gawler,1526,2
+Gawler,1700,2
+Gawler,1702,2
+Gawler,1705,2
+Gawler,1706,2
+Gawler,1708,2
+Gawler,1712,2
+Gawler,1714,2
+Gawler,1718,2
+Gawler,1719,2
+Gawler,1720,2
+Gawler,1722,2
+Gawler,1725,2
+Gawler,1730,2
+Gawler,1732,2
+Gawler,1738,2
+Gawler,2100,2
+Gawler,2102,2
+Gawler,2105,2
+Gawler,2108,2
+Gawler,2109,2
+Gawler,2112,2
+Gawler,2114,2
+Gawler,2118,2
+Gawler,2120,2
+Gawler,2121,2
+Gawler,2122,2
+Gawler,2125,2
+Gawler,2132,2
+Gawler,2138,2
+Gawler,3040,3
+Gawler,3340,3
+Gawler,3380,3
+Geelong,1000,1
+Geelong,1100,1
+Geelong,1107,1
+Geelong,1112,1
+Geelong,1118,1
+Geelong,1121,1
+Geelong,1125,1
+Geelong,1130,1
+Geelong,1135,1
+Geelong,1140,1
+Geelong,1200,1
+Geelong,1212,1
+Geelong,1218,1
+Geelong,1221,1
+Geelong,1225,1
+Geelong,1230,1
+Geelong,1235,1
+Geelong,1240,1
+Geelong,1300,1
+Geelong,1307,1
+Geelong,1312,1
+Geelong,1318,1
+Geelong,1321,1
+Geelong,1325,1
+Geelong,1330,1
+Geelong,1340,1
+Geelong,1400,1
+Geelong,1407,1
+Geelong,1412,1
+Geelong,1418,1
+Geelong,1421,1
+Geelong,1425,1
+Geelong,1430,1
+Geelong,1435,1
+Geelong,1440,1
+Geelong,1500,1
+Geelong,1507,1
+Geelong,1512,1
+Geelong,1518,1
+Geelong,1521,1
+Geelong,1525,1
+Geelong,1530,1
+Geelong,1535,1
+Geelong,1540,1
+Geelong,1700,2
+Geelong,1710,2
+Geelong,1715,2
+Geelong,1720,2
+Geelong,1726,2
+Geelong,1733,2
+Geelong,1750,2
+Geelong,1755,2
+Geelong,1900,2
+Geelong,2200,2
+Geelong,2212,2
+Geelong,2218,2
+Geelong,2224,2
+Geelong,2227,2
+Geelong,2233,2
+Geelong,2240,2
+Geelong,2247,2
+Geelong,2260,2
+Geelong,2400,2
+Geelong,2418,2
+Geelong,2424,2
+Geelong,2440,2
+Geelong,2447,2
+Geelong,2455,2
+Geelong,2460,2
+Geraldton,1100,1
+Geraldton,1113,1
+Geraldton,1120,1
+Geraldton,1200,1
+Geraldton,1213,1
+Geraldton,1220,1
+Geraldton,1300,1
+Geraldton,1313,1
+Geraldton,1320,1
+Geraldton,1400,1
+Geraldton,1413,1
+Geraldton,1420,1
+Geraldton,1600,2
+Geraldton,1618,2
+Geraldton,1627,2
+Geraldton,1800,2
+Geraldton,1825,2
+Geraldton,1838,2
+Geraldton,1900,2
+Geraldton,1925,2
+Geraldton,2000,2
+Geraldton,2038,2
+Geraldton,2100,2
+Gilgandra,800,1
+Gilgandra,1000,1
+Gilgandra,1100,1
+Gilgandra,1200,1
+Gilgandra,1280,1
+Gilgandra,1300,1
+Gilgandra,1550,2
+Gilgandra,1600,2
+Gilgandra,1800,3
+Glen Innes,1000,1
+Glen Innes,1200,2
+Glen Innes,1400,2
+Gold Coast,900,1
+Gold Coast,1100,2
+Gold Coast,1200,2
+Gold Coast,1300,2
+Gold Coast,1400,2
+Gold Coast,1800,3
+Gold Coast,2200,4
+Gold Coast,2400,4
+Gosford,1000,1
+Gosford,1100,1
+Gosford,1200,1
+Gosford,1600,2
+Gosford,1900,2
+Gosford,1912,2
+Gosford,2100,2
+Gosford,2600,3
+Goulburn,900,1
+Goulburn,1000,1
+Goulburn,1050,1
+Goulburn,1200,1
+Goulburn,1300,1
+Goulburn,1400,1
+Goulburn,1500,1
+Goulburn,1600,1
+Goulburn,2100,2
+Goulburn,2110,2
+Goulburn,2120,2
+Goulburn,2140,2
+Goulburn,2150,2
+Goulburn,2300,2
+Goulburn,2800,3
+Grafton,1000,1
+Grafton,1005,1
+Grafton,1006,1
+Grafton,1010,1
+Grafton,1015,1
+Grafton,1100,1
+Grafton,1105,1
+Grafton,1106,1
+Grafton,1110,1
+Grafton,1115,1
+Grafton,1120,1
+Grafton,1125,1
+Grafton,1200,1
+Grafton,1205,1
+Grafton,1206,1
+Grafton,1215,1
+Grafton,1225,1
+Grafton,1400,1
+Grafton,1406,1
+Grafton,1408,1
+Grafton,1410,1
+Grafton,1415,1
+Grafton,1420,1
+Grafton,1430,1
+Grafton,1600,1
+Grafton,1610,1
+Grafton,1615,1
+Grafton,1620,1
+Grafton,1700,1
+Grafton,1706,1
+Grafton,1708,1
+Grafton,1710,1
+Grafton,1720,1
+Grafton,1730,1
+Grafton,2200,2
+Grafton,2210,2
+Grafton,2215,2
+Grafton,2217,2
+Grafton,2220,2
+Grafton,2225,2
+Grafton,2230,2
+Grafton,2350,2
+Grafton,2360,2
+Grafton,2370,2
+Grafton,2375,2
+Grafton,2380,2
+Grafton,3120,3
+Great Western,1210,2
+Great Western,1600,2
+Great Western,1950,2
+Griffith,1000,1
+Griffith,1200,1
+Griffith,1350,1
+Griffith,1820,2
+Gunbower,1100,2
+Gunbower,1300,2
+Gunbower,1800,2
+Gundagai,1000,1
+Gundagai,1100,1
+Gundagai,1180,1
+Gundagai,1400,2
+Gundagai,1800,2
+Gunnedah,900,1
+Gunnedah,1000,1
+Gunnedah,1200,2
+Gunnedah,1250,2
+Gunnedah,1300,2
+Gunnedah,1400,2
+Gunnedah,1600,2
+Gunnedah,2050,3
+Gunnedah,2700,2
+Halidon,1000,1
+Halidon,1380,2
+Halidon,1800,2
+Hamilton,1100,1
+Hamilton,1200,1
+Hamilton,1300,1
+Hamilton,1400,1
+Hamilton,1600,1
+Hamilton,2200,2
+Hamilton,3200,3
+Hanging Rock,1000,1
+Hanging Rock,1600,2
+Hanging Rock,1800,3
+Hanging Rock,2400,3
+Hawkesbury,1000,1
+Hawkesbury,1100,1
+Hawkesbury,1300,1
+Hawkesbury,1400,1
+Hawkesbury,1500,1
+Hawkesbury,1600,1
+Hawkesbury,1800,1
+Hawkesbury,1900,1
+Hawkesbury,2000,1
+Hawkesbury,2100,1
+Healesville,1200,2
+Healesville,1650,2
+Healesville,2600,4
+Hobart,1000,1
+Hobart,1100,1
+Hobart,1200,1
+Hobart,1400,2
+Hobart,1600,2
+Hobart,2100,2
+Hobart,2200,2
+Hobart,2400,2
+Hobart,3200,3
+Horsham,1100,2
+Horsham,1200,2
+Horsham,1400,2
+Horsham,1800,3
+Horsham,2100,4
+Inverell,1010,1
+Inverell,1200,1
+Inverell,1400,2
+Inverell,1600,2
+Inverell,1800,2
+Ipswich,800,1
+Ipswich,1000,1
+Ipswich,1010,1
+Ipswich,1015,1
+Ipswich,1020,1
+Ipswich,1025,1
+Ipswich,1100,1
+Ipswich,1200,1
+Ipswich,1280,1
+Ipswich,1350,1
+Ipswich,1390,2
+Ipswich,1500,2
+Ipswich,1545,2
+Ipswich,1550,2
+Ipswich,1620,2
+Ipswich,1666,2
+Ipswich,1680,2
+Ipswich,1685,2
+Ipswich,1690,2
+Ipswich,1700,2
+Ipswich,1710,2
+Ipswich,2150,4
+Ipswich,2170,4
+Ipswich,2180,4
+Ipswich,2200,4
+Ipswich,2210,4
+Ipswich,2500,2
+Kalgoorlie,1100,1
+Kalgoorlie,1200,1
+Kalgoorlie,1300,1
+Kalgoorlie,1400,1
+Kalgoorlie,1600,3
+Kalgoorlie,1603,3
+Kalgoorlie,1606,3
+Kalgoorlie,1612,3
+Kalgoorlie,1615,3
+Kalgoorlie,1760,3
+Kalgoorlie,2100,4
+Kalgoorlie,2111,4
+Kalgoorlie,2140,4
+Kalgoorlie,2300,4
+Kangaroo Island,1008,2
+Kangaroo Island,1215,2
+Kangaroo Island,1360,2
+Kangaroo Island,1750,2
+Kangaroo Island,1880,2
+Katherine,1000,2
+Katherine,1100,2
+Katherine,1300,2
+Katherine,1700,2
+Kembla Grange,900,1
+Kembla Grange,1000,1
+Kembla Grange,1200,1
+Kembla Grange,1300,1
+Kembla Grange,1400,1
+Kembla Grange,1500,1
+Kembla Grange,1600,1
+Kembla Grange,2000,2
+Kembla Grange,2400,2
+Kempsey,1000,1
+Kempsey,1250,2
+Kempsey,1450,2
+Kempsey,1900,3
+Kerang,1100,2
+Kerang,1400,2
+Kerang,1800,3
+Kilcoy,800,1
+Kilcoy,1060,2
+Kilcoy,1200,2
+Kilcoy,1500,3
+Kilcoy,1900,4
+Kilmore,1100,1
+Kilmore,1107,1
+Kilmore,1112,1
+Kilmore,1200,1
+Kilmore,1207,1
+Kilmore,1212,1
+Kilmore,1450,2
+Kilmore,1457,2
+Kilmore,1462,2
+Kilmore,1600,2
+Kilmore,1607,2
+Kilmore,1612,2
+Kilmore,1900,2
+Kilmore,1912,2
+Kilmore,2100,2
+Kilmore,2107,2
+Kilmore,2112,2
+King Island,1000,2
+King Island,1200,2
+King Island,1400,2
+King Island,1600,2
+Kyneton,1100,1
+Kyneton,1112,1
+Kyneton,1118,1
+Kyneton,1200,1
+Kyneton,1212,1
+Kyneton,1218,1
+Kyneton,1450,2
+Kyneton,1469,2
+Kyneton,1479,2
+Kyneton,1850,2
+Kyneton,1875,2
+Kyneton,1887,2
+Kyneton,2000,2
+Kyneton,2025,2
+Kyneton,2800,3
+Launceston,1100,2
+Launceston,1120,2
+Launceston,1200,2
+Launceston,1220,2
+Launceston,1400,3
+Launceston,1420,3
+Launceston,1600,3
+Launceston,1620,3
+Launceston,2100,4
+Launceston,2130,4
+Launceston,2150,4
+Launceston,2400,4
+Launceston,2600,4
+Launceston,2650,4
+Leeton,1050,1
+Leeton,1150,1
+Leeton,1600,2
+Leeton,1900,3
+Leinster,1000,2
+Leinster,1400,2
+Leinster,1600,2
+Lismore,1000,1
+Lismore,1100,1
+Lismore,1130,1
+Lismore,1200,1
+Lismore,1205,1
+Lismore,1230,1
+Lismore,1300,1
+Lismore,1305,1
+Lismore,1330,1
+Lismore,1400,1
+Lismore,1405,1
+Lismore,1430,1
+Lismore,1516,1
+Lismore,1521,1
+Lismore,1546,1
+Lismore,2100,2
+Lismore,2108,2
+Lismore,2130,2
+Longford,1400,2
+Longford,1800,2
+Mackay,1050,1
+Mackay,1100,1
+Mackay,1200,1
+Mackay,1300,1
+Mackay,1560,2
+Mackay,1800,2
+Mackay,2000,2
+Manangatang,1175,2
+Manangatang,1550,2
+Manangatang,2000,2
+Mansfield,1100,2
+Mansfield,1200,2
+Mansfield,1600,2
+Mildura,1000,1
+Mildura,1009,1
+Mildura,1010,1
+Mildura,1100,1
+Mildura,1110,1
+Mildura,1200,1
+Mildura,1209,1
+Mildura,1210,1
+Mildura,1300,1
+Mildura,1310,1
+Mildura,1400,1
+Mildura,1409,1
+Mildura,1410,1
+Mildura,1910,2
+Mildura,2000,2
+Mildura,2009,2
+Mildura,2010,2
+Mingenew,1200,2
+Mingenew,1400,2
+Mingenew,2000,2
+Moe,1000,2
+Moe,1008,2
+Moe,1011,2
+Moe,1014,2
+Moe,1017,2
+Moe,1100,2
+Moe,1108,2
+Moe,1111,2
+Moe,1114,2
+Moe,1117,2
+Moe,1200,2
+Moe,1208,2
+Moe,1211,2
+Moe,1214,2
+Moe,1217,2
+Moe,1600,3
+Moe,1614,3
+Moe,1619,3
+Moe,1623,3
+Moe,1628,3
+Moe,2050,4
+Moe,2075,4
+Moe,2081,4
+Moe,2088,4
+Moe,2400,2
+Moe,2439,2
+Moe,2446,2
+Moe,2447,2
+Moonee Valley,955,1
+Moonee Valley,1000,1
+Moonee Valley,1200,2
+Moonee Valley,1500,3
+Moonee Valley,1514,3
+Moonee Valley,1519,3
+Moonee Valley,1523,3
+Moonee Valley,1528,3
+Moonee Valley,1533,3
+Moonee Valley,1600,3
+Moonee Valley,2040,4
+Moonee Valley,2500,5
+Moonee Valley,3000,6
+Moora,1000,2
+Moora,1190,2
+Moora,1500,2
+Moora,1800,2
+Moree,950,1
+Moree,1200,2
+Moree,1300,2
+Moree,1400,2
+Moree,1600,2
+Mornington,1000,2
+Mornington,1200,2
+Mornington,1500,3
+Mornington,1600,3
+Mornington,1610,3
+Mornington,2000,4
+Mornington,2020,4
+Mornington,2025,4
+Mornington,2030,4
+Mornington,2040,4
+Mornington,2045,4
+Mornington,2050,4
+Mornington,2400,5
+Mornington,2415,5
+Mornington,2420,5
+Mornington,2435,5
+Mornington,2450,5
+Mornington,2460,5
+Morphettville,1000,1
+Morphettville,1050,1
+Morphettville,1100,1
+Morphettville,1200,1
+Morphettville,1250,1
+Morphettville,1300,2
+Morphettville,1400,2
+Morphettville,1500,2
+Morphettville,1508,2
+Morphettville,1511,2
+Morphettville,1521,2
+Morphettville,1529,2
+Morphettville,1535,2
+Morphettville,1539,2
+Morphettville,1550,2
+Morphettville,1600,2
+Morphettville,1800,2
+Morphettville,1950,3
+Morphettville,2000,3
+Morphettville,2004,3
+Morphettville,2008,3
+Morphettville,2014,3
+Morphettville,2018,3
+Morphettville,2019,3
+Morphettville,2020,3
+Morphettville,2024,3
+Morphettville,2025,3
+Morphettville,2027,3
+Morphettville,2028,3
+Morphettville,2030,3
+Morphettville,2032,3
+Morphettville,2035,3
+Morphettville,2041,3
+Morphettville,2043,3
+Morphettville,2045,3
+Morphettville,2049,3
+Morphettville,2050,3
+Morphettville,2250,4
+Morphettville,2400,4
+Morphettville,2500,4
+Morphettville,2600,4
+Morphettville,3100,5
+Morphettville,3200,5
+Morphettville,3500,5
+Mortlake,1100,1
+Mortlake,1300,1
+Mortlake,1600,2
+Mortlake,2000,2
+Moruya,920,1
+Moruya,930,1
+Moruya,1010,1
+Moruya,1020,1
+Moruya,1200,2
+Moruya,1210,22
+Moruya,1300,2
+Moruya,1310,2
+Moruya,1425,2
+Moruya,1435,2
+Moruya,1650,2
+Moruya,1660,2
+Moruya,2000,3
+Moruya,2010,3
+Mount Barker,1000,1
+Mount Barker,1100,1
+Mount Barker,1200,1
+Mount Barker,1300,1
+Mount Barker,1850,2
+Mount Barker,2000,2
+Mount Gambier,900,1
+Mount Gambier,1200,2
+Mount Gambier,1300,2
+Mount Gambier,1400,2
+Mount Gambier,1550,2
+Mount Gambier,1800,4
+Mount Gambier,2050,4
+Mount Gambier,2057,4
+Mount Gambier,2080,4
+Mount Gambier,2400,2
+Mount Gambier,2403,2
+Mount Gambier,3160,2
+Mount Gambier,3410,2
+Mount Isa,900,2
+Mount Isa,1000,2
+Mount Isa,1200,2
+Mount Isa,1450,2
+Mount Newman,1200,2
+Mount Newman,1300,2
+Mount Newman,1400,2
+Mount Newman,1550,2
+Mount Newman,2100,2
+Mudgee,1100,2
+Mudgee,1200,2
+Mudgee,1400,2
+Mudgee,1500,3
+Mudgee,1600,3
+Mudgee,1850,4
+Mudgee,2000,4
+Murray Bridge,900,1
+Murray Bridge,904,1
+Murray Bridge,906,1
+Murray Bridge,1000,1
+Murray Bridge,1006,1
+Murray Bridge,1200,1
+Murray Bridge,1206,1
+Murray Bridge,1400,1
+Murray Bridge,1406,1
+Murray Bridge,1600,1
+Murray Bridge,1606,1
+Murray Bridge,2000,2
+Murray Bridge,2200,2
+Murray Bridge,2206,2
+Murray Bridge,2400,2
+Murray Bridge,2410,2
+Murray Bridge,2570,3
+Murray Bridge,3280,4
+Murray Bridge,3292,4
+Murtoa,1100,1
+Murtoa,1200,1
+Murtoa,1600,2
+Murtoa,2050,3
+Murwillumbah,1000,1
+Murwillumbah,1010,1
+Murwillumbah,1100,1
+Murwillumbah,1200,1
+Murwillumbah,1400,2
+Murwillumbah,1530,2
+Murwillumbah,1800,2
+Murwillumbah,2000,2
+Murwillumbah,2020,2
+Muswellbrook,900,1
+Muswellbrook,1000,1
+Muswellbrook,1280,2
+Muswellbrook,1300,2
+Muswellbrook,1450,3
+Muswellbrook,1500,3
+Muswellbrook,1750,4
+Muswellbrook,1770,4
+Muswellbrook,2300,6
+Muswellbrook,2310,6
+Naracoorte,1000,2
+Naracoorte,1100,2
+Naracoorte,1200,2
+Naracoorte,1430,3
+Naracoorte,1800,4
+Naracoorte,2000,4
+Naracoorte,2830,6
+Narrandera,1000,1
+Narrandera,1200,1
+Narrandera,1400,2
+Narrandera,1600,2
+Narrandera,2100,3
+Narrogin,920,2
+Narrogin,930,2
+Narrogin,1100,2
+Narrogin,1190,2
+Narrogin,1720,3
+Narrogin,1900,3
+Narromine,800,1
+Narromine,1100,1
+Narromine,1200,1
+Narromine,1300,1
+Narromine,1600,2
+Narromine,2400,4
+Newcastle,900,1
+Newcastle,1150,2
+Newcastle,1200,2
+Newcastle,1300,2
+Newcastle,1350,2
+Newcastle,1400,2
+Newcastle,1500,2
+Newcastle,1570,1
+Newcastle,1600,1
+Newcastle,1850,3
+Newcastle,1860,3
+Newcastle,1865,3
+Newcastle,1870,3
+Newcastle,1875,3
+Newcastle,1880,3
+Newcastle,1885,3
+Newcastle,1890,3
+Newcastle,1895,3
+Newcastle,1900,4
+Newcastle,2000,4
+Newcastle,2100,4
+Newcastle,2200,4
+Newcastle,2300,4
+Newcastle,2320,4
+Newcastle,2330,4
+Newcastle,2335,4
+Newcastle,2340,4
+Newcastle,2350,4
+Newcastle,2355,4
+Newcastle,2360,4
+Newcastle,2365,4
+Newcastle,2900,5
+Newcastle,2950,5
+Nhill,1000,2
+Nhill,1150,2
+Nhill,1650,2
+Nhill,2100,2
+Northam,1000,1
+Northam,1100,2
+Northam,1300,2
+Northam,1400,2
+Northam,1600,2
+Northam,2200,3
+Nowra,1000,1
+Nowra,1100,1
+Nowra,1200,1
+Nowra,1400,2
+Nowra,1600,2
+Nowra,2200,3
+Oakbank,1050,1
+Oakbank,1100,1
+Oakbank,1400,2
+Oakbank,1900,3
+Oakbank,2150,3
+Oakbank,3200,2
+Oakbank,3250,2
+Oakbank,3600,2
+Oakbank,4950,2
+Orange,1000,1
+Orange,1280,2
+Orange,1300,2
+Orange,1400,2
+Orange,1600,3
+Orange,2100,4
+Pakenham,1000,1
+Pakenham,1100,1
+Pakenham,1200,1
+Pakenham,1400,1
+Pakenham,1600,1
+Pakenham,2000,2
+Pakenham,2200,2
+Pakenham,2500,2
+Pakenham,2550,2
+Pakenham,3200,3
+Pakenham,3500,3
+Parkes,800,1
+Parkes,1000,1
+Parkes,1200,1
+Parkes,1300,1
+Parkes,1400,1
+Parkes,1600,2
+Penola,1100,2
+Penola,1300,2
+Penola,1400,2
+Penola,1700,2
+Penola,2100,3
+Penshurst,1000,1
+Penshurst,1284,1
+Penshurst,1476,1
+Penshurst,2000,3
+Pinjarra,1000,1
+Pinjarra,1200,1
+Pinjarra,1300,1
+Pinjarra,1400,1
+Pinjarra,1406,1
+Pinjarra,1409,1
+Pinjarra,1412,1
+Pinjarra,1413,1
+Pinjarra,1500,1
+Pinjarra,1600,1
+Pinjarra,2000,2
+Pinjarra,2006,2
+Pinjarra,2013,2
+Pinjarra,2300,2
+Pinjarra,2337,2
+Port Augusta,1100,2
+Port Augusta,1200,2
+Port Augusta,1396,2
+Port Augusta,1498,2
+Port Augusta,1600,2
+Port Augusta,1867,2
+Port Augusta,2300,4
+Port Hedland,1200,2
+Port Hedland,1300,2
+Port Hedland,1400,2
+Port Hedland,1600,2
+Port Hedland,2050,2
+Port Hedland,2200,2
+Port Lincoln,1000,1
+Port Lincoln,1210,2
+Port Lincoln,1390,2
+Port Lincoln,1750,4
+Port Lincoln,1960,4
+Port Macquarie,1000,1
+Port Macquarie,1006,1
+Port Macquarie,1008,1
+Port Macquarie,1010,1
+Port Macquarie,1013,1
+Port Macquarie,1100,1
+Port Macquarie,1106,1
+Port Macquarie,1108,1
+Port Macquarie,1110,1
+Port Macquarie,1113,1
+Port Macquarie,1200,1
+Port Macquarie,1206,1
+Port Macquarie,1208,1
+Port Macquarie,1210,1
+Port Macquarie,1212,1
+Port Macquarie,1213,1
+Port Macquarie,1500,2
+Port Macquarie,1506,2
+Port Macquarie,1512,2
+Port Macquarie,1516,2
+Port Macquarie,1800,2
+Port Macquarie,1812,2
+Port Macquarie,2000,2
+Port Macquarie,2012,2
+Port Macquarie,2018,2
+Port Macquarie,2020,2
+Port Macquarie,2026,2
+Queanbeyan,900,1
+Queanbeyan,1000,1
+Queanbeyan,1200,2
+Queanbeyan,1460,2
+Queanbeyan,1600,2
+Queanbeyan,2000,4
+Quirindi,1000,1
+Quirindi,1100,1
+Quirindi,1200,1
+Quirindi,1450,2
+Quirindi,1600,2
+Randwick,1000,1
+Randwick,1100,1
+Randwick,1150,1
+Randwick,1200,1
+Randwick,1250,1
+Randwick,1300,2
+Randwick,1400,2
+Randwick,1500,2
+Randwick,1550,2
+Randwick,1600,2
+Randwick,1800,3
+Randwick,2000,3
+Randwick,2400,4
+Randwick,2500,4
+Randwick,2600,4
+Randwick,3200,5
+Rockhampton,1050,1
+Rockhampton,1100,1
+Rockhampton,1200,1
+Rockhampton,1300,1
+Rockhampton,1400,1
+Rockhampton,1500,1
+Rockhampton,1600,1
+Rockhampton,1800,2
+Rockhampton,1811,2
+Rockhampton,1814,2
+Rockhampton,1819,2
+Rockhampton,1823,2
+Rockhampton,1828,2
+Rockhampton,1835,2
+Rockhampton,2200,2
+Rockhampton,2207,2
+Rockhampton,2215,2
+Roebourne,1100,2
+Roebourne,1200,2
+Roebourne,1400,2
+Roebourne,1600,2
+Roebourne,1800,2
+Roebourne,2200,2
+Roma,900,2
+Roma,1000,2
+Roma,1200,2
+Roma,1640,2
+Rosehill,1100,1
+Rosehill,1200,1
+Rosehill,1300,2
+Rosehill,1350,2
+Rosehill,1400,2
+Rosehill,1500,2
+Rosehill,1800,3
+Rosehill,1900,3
+Rosehill,2000,3
+Rosehill,2400,4
+Rosehill,3200,5
+Sale,1000,1
+Sale,1005,1
+Sale,1008,1
+Sale,1010,1
+Sale,1013,1
+Sale,1100,1
+Sale,1105,1
+Sale,1108,1
+Sale,1110,1
+Sale,1112,1
+Sale,1113,1
+Sale,1200,1
+Sale,1205,1
+Sale,1206,1
+Sale,1208,1
+Sale,1210,1
+Sale,1212,1
+Sale,1213,1
+Sale,1400,2
+Sale,1405,2
+Sale,1411,2
+Sale,1415,2
+Sale,1416,2
+Sale,1419,2
+Sale,1422,2
+Sale,1423,2
+Sale,1427,2
+Sale,1500,2
+Sale,1515,2
+Sale,1600,2
+Sale,1611,2
+Sale,1616,2
+Sale,1619,2
+Sale,1623,2
+Sale,1627,2
+Sale,1717,2
+Sale,1723,2
+Sale,1728,2
+Sale,1732,2
+Sale,1736,2
+Sale,1739,2
+Sale,1740,2
+Sale,1744,2
+Sale,2200,3
+Sale,2205,3
+Sale,2219,3
+Sale,2226,3
+Sale,2227,3
+Sale,2231,3
+Sale,2232,3
+Sale,2238,3
+Sale,2240,3
+Sale,2244,3
+Sale,3200,2
+Sandown,1000,1
+Sandown,1200,2
+Sandown,1300,2
+Sandown,1400,2
+Sandown,1500,2
+Sandown,1600,2
+Sandown,2100,3
+Sandown,2400,3
+Sandown,3000,4
+Sandown,3200,4
+Sapphire Coast,900,1
+Sapphire Coast,908,1
+Sapphire Coast,1000,1
+Sapphire Coast,1008,1
+Sapphire Coast,1200,1
+Sapphire Coast,1208,1
+Sapphire Coast,1400,2
+Sapphire Coast,1408,2
+Sapphire Coast,1600,2
+Sapphire Coast,1608,2
+Sapphire Coast,2200,3
+Sapphire Coast,2208,3
+Scone,900,1
+Scone,1000,1
+Scone,1100,1
+Scone,1200,2
+Scone,1300,2
+Scone,1400,2
+Scone,1600,2
+Scone,1700,2
+Scone,2200,2
+Seymour,1000,1
+Seymour,1100,1
+Seymour,1200,1
+Seymour,1300,1
+Seymour,1400,2
+Seymour,1411,2
+Seymour,1414,2
+Seymour,1418,2
+Seymour,1422,2
+Seymour,1600,2
+Seymour,2000,3
+Seymour,2015,3
+Seymour,2027,3
+Seymour,2034,3
+Seymour,2200,3
+Seymour,2215,3
+Seymour,2221,3
+St Arnaud,1100,1
+St Arnaud,1200,1
+St Arnaud,2000,4
+Stawell,1100,1
+Stawell,1300,2
+Stawell,1600,2
+Stawell,2000,2
+Stawell,2700,2
+Stawell,3600,2
+Stony Creek,1000,1
+Stony Creek,1100,1
+Stony Creek,1600,2
+Stony Creek,1700,3
+Stony Creek,1780,3
+Stony Creek,2100,3
+Strathalbyn,1100,1
+Strathalbyn,1110,1
+Strathalbyn,1112,1
+Strathalbyn,1200,1
+Strathalbyn,1210,1
+Strathalbyn,1212,1
+Strathalbyn,1350,1
+Strathalbyn,1360,1
+Strathalbyn,1362,1
+Strathalbyn,1600,2
+Strathalbyn,1612,2
+Strathalbyn,1615,2
+Strathalbyn,2050,2
+Strathalbyn,2062,2
+Strathalbyn,2065,2
+Strathalbyn,2066,2
+Strathalbyn,2070,2
+Strathalbyn,3000,4
+Sunshine Coast,1000,1
+Sunshine Coast,1200,1
+Sunshine Coast,1300,1
+Sunshine Coast,1400,1
+Sunshine Coast,1600,2
+Sunshine Coast,1800,2
+Sunshine Coast,2200,3
+Sunshine Coast,2400,3
+Sunshine Coast,3200,4
+Swan Hill,975,1
+Swan Hill,1200,2
+Swan Hill,1300,2
+Swan Hill,1600,3
+Swan Hill,2100,4
+Tamworth,1000,1
+Tamworth,1200,1
+Tamworth,1400,1
+Tamworth,1600,2
+Tamworth,2100,2
+Taree,1000,1
+Taree,1005,1
+Taree,1007,1
+Taree,1250,2
+Taree,1255,2
+Taree,1257,2
+Taree,1300,2
+Taree,1308,2
+Taree,1312,2
+Taree,1400,2
+Taree,1408,2
+Taree,1411,2
+Taree,1412,2
+Taree,1600,3
+Taree,1609,3
+Taree,1614,3
+Taree,2000,4
+Taree,2018,4
+Tatura,1000,1
+Tatura,1100,1
+Tatura,1450,2
+Tatura,1600,2
+Tatura,1980,3
+Tennant Creek,1000,2
+Tennant Creek,1100,2
+Tennant Creek,1200,2
+Tennant Creek,1450,2
+Tennant Creek,1600,2
+Terang,1000,1
+Terang,1125,1
+Terang,1200,1
+Terang,1206,1
+Terang,1400,1
+Terang,1406,1
+Terang,1600,1
+Terang,1606,1
+Terang,1850,2
+Terang,1856,2
+Terang,2150,3
+Terang,2156,3
+Terang,3200,5
+Texas,900,2
+Texas,1200,2
+Toodyay,1100,2
+Toodyay,1350,2
+Toodyay,1850,2
+Toowoomba,870,1
+Toowoomba,1000,2
+Toowoomba,1050,2
+Toowoomba,1100,2
+Toowoomba,1110,2
+Toowoomba,1200,2
+Toowoomba,1210,2
+Toowoomba,1300,2
+Toowoomba,1625,3
+Toowoomba,1640,3
+Toowoomba,1650,3
+Toowoomba,1850,4
+Toowoomba,1860,4
+Toowoomba,1870,4
+Toowoomba,1875,4
+Toowoomba,1880,4
+Toowoomba,2000,4
+Toowoomba,2020,4
+Toowoomba,2025,4
+Toowoomba,2030,4
+Toowoomba,2100,4
+Toowoomba,2125,4
+Toowoomba,2150,4
+Toowoomba,2175,4
+Toowoomba,2180,4
+Townsville,1000,1
+Townsville,1200,1
+Townsville,1300,1
+Townsville,1400,1
+Townsville,1609,2
+Townsville,2000,2
+Towong,950,2
+Towong,1200,2
+Towong,1400,2
+Towong,1600,2
+Traralgon,1100,1
+Traralgon,1430,2
+Traralgon,1900,3
+Tullibigeal,975,2
+Tullibigeal,1200,2
+Tullibigeal,1600,2
+Tuncurry,1000,1
+Tuncurry,1200,1
+Tuncurry,1300,1
+Tuncurry,1400,1
+Tuncurry,1500,1
+Tuncurry,2100,2
+Wagga,1000,1
+Wagga,1050,1
+Wagga,1200,1
+Wagga,1300,1
+Wagga,1400,1
+Wagga,1600,2
+Wagga,1660,2
+Wagga,1800,2
+Wagga,2000,2
+Wagga,2500,3
+Wagga,3200,4
+Wagga,3800,5
+Walcha,1000,1
+Walcha,1200,2
+Walcha,1440,3
+Walcha,1700,3
+Wangaratta,1000,1
+Wangaratta,1100,1
+Wangaratta,1170,1
+Wangaratta,1300,2
+Wangaratta,1400,2
+Wangaratta,1590,2
+Wangaratta,2000,3
+Wangaratta,2010,3
+Wangaratta,2800,4
+Warracknabeal,1000,1
+Warracknabeal,1005,1
+Warracknabeal,1200,1
+Warracknabeal,1205,1
+Warracknabeal,1600,2
+Warracknabeal,1800,2
+Warracknabeal,1815,2
+Warracknabeal,2000,2
+Warracknabeal,2015,2
+Warren,1000,1
+Warren,1200,1
+Warren,1400,1
+Warren,1600,1
+Warren,2400,3
+Warrnambool,1000,1
+Warrnambool,1100,1
+Warrnambool,1200,1
+Warrnambool,1300,1
+Warrnambool,1400,1
+Warrnambool,1700,2
+Warrnambool,2000,2
+Warrnambool,2009,2
+Warrnambool,2030,2
+Warrnambool,2035,2
+Warrnambool,2042,2
+Warrnambool,2047,2
+Warrnambool,2053,2
+Warrnambool,2350,2
+Warrnambool,2356,2
+Warrnambool,2381,2
+Warrnambool,2388,2
+Warrnambool,2394,2
+Warrnambool,2400,2
+Warrnambool,2406,2
+Warrnambool,3065,2
+Warrnambool,3100,2
+Warrnambool,3128,2
+Warrnambool,3200,2
+Warrnambool,3282,2
+Warrnambool,3450,2
+Warrnambool,4065,2
+Warrnambool,4600,2
+Warrnambool,5500,2
+Warwick,800,2
+Warwick,1000,2
+Warwick,1100,2
+Warwick,1200,2
+Warwick,1350,2
+Warwick,1500,2
+Warwick,2000,2
+Warwick Farm,1000,1
+Warwick Farm,1100,1
+Warwick Farm,1200,1
+Warwick Farm,1250,1
+Warwick Farm,1300,1
+Warwick Farm,1400,1
+Warwick Farm,1600,2
+Warwick Farm,2110,3
+Warwick Farm,2130,3
+Warwick Farm,2200,3
+Warwick Farm,2400,3
+Wellington,900,2
+Wellington,910,2
+Wellington,1000,2
+Wellington,1010,2
+Wellington,1100,2
+Wellington,1110,2
+Wellington,1400,3
+Wellington,1410,3
+Wellington,1600,4
+Wellington,1700,4
+Wellington,1710,4
+Wellington,2400,2
+Wellington,2410,2
+Werribee,1000,1
+Werribee,1005,1
+Werribee,1010,1
+Werribee,1100,1
+Werribee,1110,1
+Werribee,1115,1
+Werribee,1400,2
+Werribee,1410,2
+Werribee,1420,2
+Werribee,1425,2
+Werribee,1600,2
+Werribee,1610,2
+Werribee,1620,2
+Werribee,1625,2
+Werribee,2000,3
+Werribee,2020,3
+Werribee,2030,3
+Werribee,2600,4
+Werribee,2625,4
+Werribee,2635,4
+Werribee,2640,4
+Wodonga,1100,1
+Wodonga,1200,1
+Wodonga,1300,1
+Wodonga,1400,1
+Wodonga,1590,2
+Wodonga,2050,2
+Wyong,1000,1
+Wyong,1100,1
+Wyong,1200,1
+Wyong,1300,1
+Wyong,1350,1
+Wyong,1600,2
+Wyong,2100,3
+Yarra Valley,1000,1
+Yarra Valley,1003,1
+Yarra Valley,1009,1
+Yarra Valley,1200,2
+Yarra Valley,1203,2
+Yarra Valley,1209,2
+Yarra Valley,1500,3
+Yarra Valley,1503,3
+Yarra Valley,1514,3
+Yarra Valley,1950,4
+Yarra Valley,1953,4
+Yarra Valley,1968,4
+Yeppoon,1100,2
+Yeppoon,1200,2
+Yeppoon,1300,2
+Yeppoon,1400,2
+Yeppoon,1800,2
+York,1100,2
+York,1200,2
+York,1300,2
+York,1500,2
+York,1920,2
